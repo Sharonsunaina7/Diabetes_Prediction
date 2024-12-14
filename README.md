@@ -7,4 +7,4 @@ This model is used for predicting diabetes using the diagnosis of the patient's 
 4. Run all the tests and you will be able to predict the person is diabetic or not diabetic based on the input values.
 
 ### Sample Output :
-![Sample Output](https://github.com/Sharonsunaina7/Age_Gender_Detection/blob/main/Output_1.png)
+![Sample Output](https://github.com/Sharonsunaina7/Diabetes_Prediction/blob/main/Ouput%20Diabetes_Prediction.png)
